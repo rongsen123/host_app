@@ -10,6 +10,7 @@ STATCOM_HOST_V0105/communication/__init__.py
 STATCOM_HOST_V0105/communication/crc16.py
 STATCOM_HOST_V0105/communication/modbus_rtu.py
 STATCOM_HOST_V0105/communication/serial_worker.py
+STATCOM_HOST_V0105/docs/STATCOM_V0105_COMPATIBILITY.md
 STATCOM_HOST_V0105/docs/涓婁綅鏈篤0103淇敼浜ゅ簳涔?md
 STATCOM_HOST_V0105/docs/涓婁綅鏈篤0104淇濇姢闃堝€煎姛鑳戒慨鏀逛氦搴曚功.md
 STATCOM_HOST_V0105/docs/涓婁綅鏈篤0105鍘熷鐮佸崗璁慨鏀逛氦搴曚功.md
@@ -23,3 +24,4 @@ STATCOM_HOST_V0105/ui/__init__.py
 STATCOM_HOST_V0105/ui/main_window.py
 STATCOM_HOST_V0105/ui/theme.py
 STATCOM_HOST_V0105/ui/widgets.py
+TRACKED_FILE_LIST.txt
